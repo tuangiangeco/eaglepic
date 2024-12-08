@@ -3,4 +3,10 @@
   "symbol": "EAGLE512",
   "description": "Eagle Token",
   "image": "https://raw.githubusercontent.com/tuangiangeco/eaglepic/refs/heads/main/eagle512.jpg"
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Compressed Coil"
+    }
+  ]
 }
